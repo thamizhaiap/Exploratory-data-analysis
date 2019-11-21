@@ -1,2 +1,2 @@
 # Exploratory-data-analysis
-These EDAs are from mlcourse.ai. If you like to know more info, please visit mlcourse.ai
+These files contains exploratory data analysis using numpy, pandas and visualization using matplotlib, seaborn and plotly. 
